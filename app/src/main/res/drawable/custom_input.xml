@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Đặt màu nền cho EditText (ví dụ: màu trắng) -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Đặt màu đường viền cho EditText (ví dụ: màu xám) -->
+    <stroke
+        android:color="#CCCCCC"
+        android:width="2dp" />
+
+    <!-- Đặt độ bo góc của EditText (ví dụ: 5dp) -->
+    <corners android:radius="5dp" />
+</shape>

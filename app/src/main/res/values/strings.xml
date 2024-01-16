@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bán hàng</string>
+    <string name="start">Đăng nhập</string>
+    <string name="end">Đăng xuất</string>
+    <string name="name">Order</string>
+    <string name="btn_add">Thêm sản phẩm</string>
+    <string name="btn_total">Tổng tiền</string>
+    <string name="btn_viewAll">Xem tất cả</string>
+    <string name="btn_exit">Thoát</string>
+    <string name="product_list">Danh sách sản phẩm đã mua: </string>
+
+
+</resources>
